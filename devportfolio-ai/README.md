@@ -1,6 +1,6 @@
 # DevPortfolio AI 🚀
 
-> Auto Portfolio Builder for Developers — powered by GitHub API + OpenAI GPT-4
+> Auto Portfolio Builder for Developers — powered by GitHub API + Groq ai
 
 ---
 

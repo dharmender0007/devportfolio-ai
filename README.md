@@ -1,2 +1,2 @@
 # devportfolio-ai
-🚀 AI-powered developer portfolio builder — auto-generate your portfolio from GitHub + resume using Llama AI
+🚀 AI-powered developer portfolio builder — auto-generate your portfolio from GitHub + resume 

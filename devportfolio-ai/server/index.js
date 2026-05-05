@@ -28,8 +28,8 @@ app.use(cors({
   origin: [
     'http://localhost:3000',
     'https://devportfolio-ai-eight.vercel.app',
-    process.env.CLIENT_URL,
-  ].filter(Boolean),
+    'https://devportfolio-ai-production.up.railway.app',
+  ],
   credentials: true,
 }));
 
